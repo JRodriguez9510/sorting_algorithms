@@ -1,14 +1,18 @@
 # 0x1B. C - Sorting algorithms & Big O  
 ---  
-#### Objectives:  
+## Objectives:  
 - At least four different sorting algorithms  
 - What is the Big O notation, and how to evaluate the time complexity of an algorithm  
 - How to select the best sorting algorithm for a given input  
 - What is a stable sorting algorithm  
 ---  
-## Contributors:
+### Contributors:
 - Jorge Rodriguez <jrodriguez9510@outlook.com>  
 ---  
-## Licence & Copyright  
+### Licence & Copyright  
 © Jorge Rodriguez 2021  
+<<<<<<< HEAD
 Licensed under the [MIT Licence](LICENSE)
+=======
+Licensed under the [MIT Licence](LICENCE)
+>>>>>>> 6885b076b9e2be1f0255daa7881d42c6c4db11fa
