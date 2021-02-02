@@ -10,9 +10,6 @@
 - Jorge Rodriguez <jrodriguez9510@outlook.com>  
 ---  
 ### Licence & Copyright  
-© Jorge Rodriguez 2021  
-<<<<<<< HEAD
+© Jorge Rodriguez 2021
+  
 Licensed under the [MIT Licence](LICENSE)
-=======
-Licensed under the [MIT Licence](LICENCE)
->>>>>>> 6885b076b9e2be1f0255daa7881d42c6c4db11fa
