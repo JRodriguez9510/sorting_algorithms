@@ -11,4 +11,4 @@
 ---  
 ## Licence & Copyright  
 © Jorge Rodriguez 2021  
-Licensed under the [MIT Licence](LICENCE)
+Licensed under the [MIT Licence](LICENSE)
