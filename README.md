@@ -9,7 +9,7 @@
 ### Contributors:
 - Jorge Rodriguez <jrodriguez9510@outlook.com>  
 ---  
-### Licence & Copyright  
+### License & Copyright  
 © Jorge Rodriguez 2021
-  
+
 Licensed under the [MIT Licence](LICENSE)
